@@ -97,11 +97,11 @@ def test_compare_lists(list1, list2, expected):
 
 - Отчет pylint/Checkstyle
 
-  ![Untitled](.\contents\Untitled.png)
+https://github.com/sakotas/GB_UnitTests/blob/main/Homework6/contents/Untitled.png
     
 - Отчет о покрытии тестами
 
-  ![Untitled](.\contents\Untitled1.png)
+https://github.com/sakotas/GB_UnitTests/blob/main/Homework6/contents/Untitled1.png
     
 - Объяснение того, какие сценарии покрыты тестами и почему вы выбрали именно эти сценарии
 1. **Тестирование среднего значения**: Проверяет корректность расчета среднего значения, включая ситуацию с пустым списком.
